@@ -146,34 +146,34 @@ Sugere ações e estratégias com base nos resultados das análises.
 
 # 📚 Glossário
 
-**Big Data**
+**Big Data:**
 Grandes volumes de dados gerados continuamente.
 
-**Business Intelligence (BI)**
+**Business Intelligence (BI):**
 Conjunto de ferramentas para análise e visualização de dados.
 
-**Dashboard**
+**Dashboard:**
 Painel que apresenta indicadores e gráficos.
 
-**Data Lake**
+**Data Lake:**
 Repositório que armazena dados brutos.
 
-**Data Warehouse**
+**Data Warehouse:**
 Banco de dados estruturado para análises.
 
-**ETL**
+**ETL:**
 Processo de Extrair, Transformar e Carregar dados.
 
-**ELT**
+**ELT:**
 Processo de Extrair, Carregar e Transformar dados.
 
-**Insight**
+**Insight:**
 Informação relevante obtida a partir da análise dos dados.
 
-**KPI**
+**KPI:**
 Indicador-chave utilizado para medir desempenho.
 
-**Machine Learning**
+**Machine Learning:**
 Técnicas que permitem aos computadores aprenderem com os dados.
 
 ---
