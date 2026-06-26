@@ -184,11 +184,10 @@ Técnicas que permitem aos computadores aprenderem com os dados.
 * Crie um glossário dos principais termos.
 * Elabore um mapa mental.
 * Crie um quiz com 10 perguntas.
-* Compare dois conceitos relacionados.
+* Compare os tipos de análise de dado.
 * Explique utilizando exemplos práticos.
-* Liste os principais desafios sobre este tema.
+* Liste os principais desafios.
 * Faça uma tabela comparativa.
-* Gere perguntas para revisão.
 
 ---
 
