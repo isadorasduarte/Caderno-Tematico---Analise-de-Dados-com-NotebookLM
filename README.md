@@ -14,7 +14,6 @@ Durante o estudo, foram utilizadas fontes para compreender os conceitos fundamen
 * Conhecer as etapas de um projeto de análise de dados.
 * Identificar os quatro tipos de análise de dados.
 * Entender as principais ferramentas utilizadas por analistas de dados.
-* Desenvolver habilidades na elaboração de prompts utilizando o NotebookLM.
 * Consolidar o conhecimento em um miniguia para futuras consultas.
 
 ---
